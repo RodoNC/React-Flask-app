@@ -6,6 +6,8 @@ React App with flask backend and sqlite database
 How to run:
 Python and npm are required
 1. While in the 447HW1 folder enter <flask run> into the command line to start the flask server
+run <npm install -r requirements.txt> if missing requirements
+You may also want to set up a virtual environment beforehand as well
 2. In another terminal, cd to the frontend folder and enter <npm start> to load the react app
 If the react app does not open in the browser, go to http://localhost:3000/
 You may also need to run <npm install> to install all the dependencies
