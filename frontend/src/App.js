@@ -34,7 +34,7 @@ return (
 			<Navbar.Brand>
 				<Link to={"/welcome"}
 				className="nav-link">
-				Rodolfo's 447 HW 1
+				Rodolfo's React App
 				</Link>
 			</Navbar.Brand>
 
